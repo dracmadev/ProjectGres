@@ -72,3 +72,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Ignorar archivos grandes y temporales de Unity
+Library/
+Temp/
+Logs/
+Packages/com.ptc.vuforia.engine-*.tgz
+Packages/com.ptc.vuforia.engine-*/
