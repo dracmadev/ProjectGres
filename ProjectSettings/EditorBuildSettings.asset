@@ -9,5 +9,9 @@ EditorBuildSettings:
     path: Assets/VuforiaAssets/SamplesResources/Scenes/0-Main.unity
     guid: a09cb257d566c489595b16ab37547666
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ba1443f1e4a81b341ae2953ed0f4414b,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 80cf2576ef5ce08439e9dd83cbc9380b,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c978db471c56eaa4ab576ff4a48082be,
       type: 2}
