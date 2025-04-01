@@ -77,7 +77,7 @@ public class ARObjectManager : MonoBehaviour
         }
         else
         {
-            Debug.LogError("GetCurrentGreModel() == NULL    //->Alvaro");
+            Debug.LogError("GetCurrentGreModel() == NULL                        (Alvaro)");
         }
     }
 }
