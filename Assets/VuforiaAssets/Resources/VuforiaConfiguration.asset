@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   vuforia:
     vuforiaLicenseKey: AXlgL+j/////AAABmWN7N3BUn0N4vH87q17gvJpdBdL04kGvQBzu3wf/iQ5J16RH8tzaCGiebPowqETHllEp5u9SRoGHShA3lA33JjmXEg+L2WA+ZYJU23S0dkXUX/4h/A93OdVqc9NeAwKAXru4sEE8NjEf5QrH0dl26VrZa36mcIXkSxLDcOFC3JrCM1eUMO42rrre5kHqkTuvqFjLCtEW8x3vRwA9lT/tDytj4GmC/KWaimf+4qm7JYDd29Ad8sF/knJrgworfZoqxSBEqgfuLCMu5XTluJTydgGwE7/TT1GUwmfQTtoESJE+/D3o4ZnZ93lZr7CNyLBguFNlZ9DkpnW4JnExiojkQNpn5HLUe9zGZPz/AO+0XVwf
-    ufoLicenseKey: QVhiM0Y1Ly8vLy8vQUFBQUtPbnFIeHJFSGs1N3VrMlg4U050eVBzK2pkOFZxMDhrazlwYjBsYS9aZUIxQlV1ckZWcWt0ZllSQWpnT2tIRlY2VzdOMDRTRjNYRUhmbTF5L1BnYlB4eWdHWEF6RUNheXowc3dyNVNYa2ozdERuRjhka1FpOHRscHdkMDcrcEJEY1FjTjNJcUM1bEgwOTYzQkdZdjRsQStRb0hSQU9nRGthelp5TlY0WHVwWU9EaE05NWw5bXAzbnBDMjM5MWZBWXBFdEdiL2loTDNab3N4b25ZblhjK1JtSS9wLzRoTDIwVGhmTXR6WFJNYkpUTXZLZzJoQ0N0TEJXNEptZ0pSOUtSdStzQWM3QjVNOWFFMGVHQ1dUT1VRSUUweEpiZC9ZL2cvS29iNDhBRXdQOGFwbWR5NmRWU0FHU2psVzRZY2FEU2Zud3J1ZHhucVNmSUZiajNTUnIzM0lKVlFIaW1rL0oyOGNFeDdyekcySXg=
+    ufoLicenseKey: QVFTL0FyNy8vLy8vQUFBQUtHWm9iNGQyZ1VoYmtUT1hVMzRVNWdKZUpHeDRPUjBBRWlTc1cxbTVPNXJ3UVdwa1ArREhPYmMxNHMwYW5tTHIwK2Ivc25DSDVlNnVvcmFONWRVUmVpQzgzbG9Pck54R250Vk53RkdUb2MxTU5SeWsvVWgyRjQxSEtoR0hFa01ncVcxaHY2SWhrRkhHVWNRVGVjSGsydDMyUXRYT3lhT1hNS2FINkNhb3dvdm9CSmZ5WmV6K2hVd2xzTFIzeThNL3hUbDVGaHMvRzJuWGpZZXR4eHBTVGRzN2RqVVNaZ1RIU0lSeWwzQ2Nzam5PWm1kclJQbERtSUpqU2labFZYb09KU2dtY2xDcGlWTzVDeHRGUytSWlVIUTB1UUVVLzdhaCtJVGZnVnN6Z1RkMXEveEdtelhQUzJma0tvb3lmL2RBd1QwYUlDUEVlNEFBbWk3alhBVmRkeXBGYVhQLy90WFJ5YkJIc0N3VndxWUM=
     delayedInitialization: 0
     cameraFocusModeSetting: 2
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 1
     virtualSceneScaleFactor: 1
     modelTargetRecoWhileExtendedTracked: 1
-    shareRecordingsInITunes: 1
+    shareRecordingsInITunes: 0
     logLevel: 0
     version: 11.1.3
-    eulaAcceptedVersions: '{"Values":["0.0","10.8","9.8","10.1","10.2","10.3","10.7","10.9","10.10","10.11","10.12","10.13","10.14","10.15","10.17","10.18","10.19","10.21","10.20","10.22","10.25","10.27","11.0","11.1"]}'
+    eulaAcceptedVersions: '{"Values":["","0.0","10.8","9.8","10.1","10.2","10.3","10.7","10.9","10.10","10.11","10.12","10.13","10.14","10.15","10.17","10.18","10.19","10.21","10.20","10.22","10.25","10.27","11.0","11.1"]}'
   database:
     disableModelExtraction: 0
   plugins:
